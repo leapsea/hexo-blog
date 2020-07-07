@@ -1,0 +1,24 @@
+{
+    "down": [
+        {
+            "name": "淘宝",
+            "url": "http://download.taobaocdn.com/wireless/taobao4android/latest/taobao4android_703304.apk"
+        },
+        {
+            "name": "百度网盘",
+            "url": "https://wppkg.baidupcs.com/issue/netdisk/apk/BaiduNetdisk_10.0.163.apk"
+        },
+        {
+            "name": "滴答拼车",
+            "url": "https://www.didapinche.com/getapk.php?c=official&t.apk"
+        },
+        {
+            "name": "优酷视频",
+            "url": "https://down2.uc.cn/youku/down.php?pub=ab235fdcb823d83f"
+        },
+        {
+            "name": "钉钉",
+            "url": "http://download.alicdn.com/wireless/dingtalk/latest/rimet_10002068.apk"
+        }
+    ]
+}
